@@ -44,7 +44,7 @@ const Navbar = () => {
               component="div"
               sx={{ m: 2 }}
             >
-              Affworld Technologies
+              SecretTalks
             </Typography>
           </a>
         </div>
