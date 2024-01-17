@@ -9,7 +9,7 @@
 Tech Stack - MERN
 CSS Library - MUI
 
-Features:
+**Features**:
 1. Google Authorisation for Login has been added.
 2. JWT verification has been implemented.
 3. Custom user-name to be displayed has been added.
@@ -17,22 +17,22 @@ Features:
 5. Design is responsive.
 6. Password recovery has also been implemented.
 
-The Login Page:
+**The Login Page**:
 ![Alt text](image.png)
 
-The Landing Page:
+**The Landing Page**:
 ![Alt text](image-1.png)
 
-View after saving a secret message:
+**View after saving a secret message**:
 ![Alt text](image-2.png)
 
-Alert that only one secret can be added:
+**Alert that only one secret can be added**:
 ![Alt text](image-3.png)
 
-Responsive UI:
+**Responsive UI**:
 ![Alt text](image-4.png)
 
-Demo Video Link:
+**Demo Video Link**:
 https://drive.google.com/file/d/1iYhRlUdiKj0LAtkM7tnCFr_6Q4K9-T_v/view?usp=drive_link
 
 
